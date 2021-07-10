@@ -1,7 +1,9 @@
 ### Hi there 👋
 ### I am Imon, alias unownone (😉plus points if you know the reference pika pika)
 
-#*Few things about me*
+<p align="center">
+  
+### *Few things about me*
 
 - 🎓 I'm currently pursuing **BTech in Computer Science**
 - 🌱 I’m currently learning **Machine Learning**
@@ -11,9 +13,10 @@
 
 
 ### Welcome to my Github Repository
-### Roam about, see my projects! Feel free to fork em if you wanna, as long as you have a pitchfork right:0
+<p color="purple">
+### Roam about, see my projects! Feel free to fork em if you wanna, as long as you have a pitchfork right:0</p>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unownone&show_icons=true&theme=onedark)
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unownone&show_icons=true&theme=onedark)
+</p>
