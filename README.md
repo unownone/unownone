@@ -1,7 +1,5 @@
 ### Hi there 👋
 ### I am Imon, alias unownone (😉plus points if you know the reference pika pika)
-
-<p align="center">
   
 ### *Few things about me*
 
@@ -18,5 +16,6 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unownone&show_icons=true&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unownone&show_icons=true&theme=onedark)
-</p>
+
+### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unownone&show_icons=true&theme=onedark)
+
