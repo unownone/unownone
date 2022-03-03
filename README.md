@@ -22,14 +22,16 @@
 
 ### SERVICES/MODULES I KNOW :zap: :
 ---
-<img align="left" alt="Django" width="50px" src="https://static.djangoproject.com/img/logos/django-logo-negative.png" />
-<img align="left" alt="MongoDB" width="40px" src="https://images.cms.fivetran.com/mgtdf72hs0mx/6EqChQTpjHA93FltCUKXwf/066e4052c668145acb311e8d12508c3c/MongoDB.svg?fm=jpg&w=1200&q=80&fit=fill" />
-<img align="left" alt="Flask" width="50px" src="https://www.kindpng.com/picc/m/188-1882416_flask-python-logo-hd-png-download.png"/>
-<img align="left" alt="Pygame" width="100px" src="https://camo.githubusercontent.com/1971c0a4f776fb5351c765c37e59630c83cabd52/68747470733a2f2f7777772e707967616d652e6f72672f696d616765732f6c6f676f2e706e67"/>
-<img align="left" alt="Pandas" width="100px" src="https://www.kindpng.com/picc/m/574-5747046_python-pandas-logo-transparent-hd-png-download.png"/>
-<img align="left" alt="Scikit-Learn" width="80px" src="https://img.favpng.com/13/13/20/scikit-learn-python-scikit-image-logo-brand-png-favpng-DiDpZ1ewwNabVHftX6ieU1Wx4.jpg"/>
-<br />
-<br />
+  <img align="left" alt="Django" width="50px" src="https://static.djangoproject.com/img/logos/django-logo-negative.png" />
+  <img align="left" alt="MongoDB" width="40px" src="https://images.cms.fivetran.com/mgtdf72hs0mx/6EqChQTpjHA93FltCUKXwf/066e4052c668145acb311e8d12508c3c/MongoDB.svg?fm=jpg&w=1200&q=80&fit=fill" />
+  <img align="left" alt="Flask" width="50px" src="https://www.kindpng.com/picc/m/188-1882416_flask-python-logo-hd-png-download.png"/>
+  <img align="left" alt="Pygame" width="100px" src="https://camo.githubusercontent.com/1971c0a4f776fb5351c765c37e59630c83cabd52/68747470733a2f2f7777772e707967616d652e6f72672f696d616765732f6c6f676f2e706e67"/>
+  <img align="left" alt="Pandas" width="100px" src="https://www.kindpng.com/picc/m/574-5747046_python-pandas-logo-transparent-hd-png-download.png"/>
+  <img align="left" alt="Scikit-Learn" width="80px" src="https://img.favpng.com/13/13/20/scikit-learn-python-scikit-image-logo-brand-png-favpng-DiDpZ1ewwNabVHftX6ieU1Wx4.jpg"/>
+
+<br/>
+<br/>
+
 <details>
   <summary> GITHUB STATS :eye: :lips: :eye: </summary>
   
@@ -37,4 +39,4 @@
 
 ### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unownone&show_icons=true&theme=onedark)
 
-  </details>
+</details>
