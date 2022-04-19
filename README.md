@@ -37,11 +37,9 @@
 <br/>
 <br/>  
 
-<details align="left">
-  <summary color=yellow size=6> GITHUB STATS :eye: :lips: :eye: </summary>
+# GITHUB STATS :eye: :lips: :eye:
   
 ### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unownone&show_icons=true&theme=onedark)
 
 ### ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unownone&show_icons=true&theme=onedark)
 
-</details>
