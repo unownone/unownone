@@ -37,7 +37,7 @@
 <br/>
 <br/>  
 
-# GITHUB STATS :eye: :lips: :eye:
+# GITHUB STATS 📃
   
 ### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=unownone&show_icons=true&theme=onedark)
 
