@@ -1,7 +1,8 @@
-[![MasterHead](./main.svg)](https://github.com/unownone)
+[![MasterHead](https://user-images.githubusercontent.com/38348296/189504411-aa05a17c-ce31-4038-ad98-4c3b0d6886e6.png)](https://github.com/unownone)
 ### Hi there 👋
 ### I am Imon, alias unownone
   
+
 ### *Few things about me*
 
 - 🎓 I'm currently pursuing **BTech in Computer Science**
