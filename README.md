@@ -2,7 +2,7 @@
 ### Hi there 👋
 ### I am Imon, alias unownone
   
-<p><img src="https://komarev.com/ghpvc/?username=unownone&label=Profile%20views&color=00ff00&style=flat" alt="unownone" /> </p>
+<p><img src="https://komarev.com/ghpvc/?username=unownone&label=Profile%20views&color=9834eb&style=flat" alt="unownone" /> </p>
 
 
 ### *Few things about me*
