@@ -1,10 +1,19 @@
-[![MasterHead](https://user-images.githubusercontent.com/38348296/189504411-aa05a17c-ce31-4038-ad98-4c3b0d6886e6.png)](https://github.com/unownone)
 ### Hi there 👋
 ### I am Imon, alias unownone
+<img align="right" height="380px" width="380px" src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47esbqa0b2z18ytzbasxgr9gqu15v17tpr3sxavmkx&rid=giphy.gif&ct=g"/>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=unownone&label=Profile%20views&color=9834eb&style=flat" alt="unownone" />     
   
-<p><img src="https://komarev.com/ghpvc/?username=unownone&label=Profile%20views&color=9834eb&style=flat" alt="unownone" /> </p>
+  ![GitHub User's stars](https://img.shields.io/github/stars/unownone?style=social) 
+  [![GitHub followers](https://img.shields.io/github/followers/unownone?style=social)](https://github.com/unownone/)
+</p>
 
 
+## Connect with me here:  
+[![Twitter URL](https://img.shields.io/twitter/follow/ru_de101?style=social)](https://twitter.com/ru_de101)
+[![Linkedin](https://img.shields.io/badge/imonroy-0A66C2?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/imon--roy/)
+[![]()]()
 ### *Few things about me*
 
 - 🎓 I'm currently pursuing **BTech in Computer Science**
@@ -13,41 +22,45 @@
 - 🤔 I’m looking for help with **Application Backend development**
 - 😮 Pronouns **He/Him**
 
-### LANGUAGES I SPEAK :
+### Lovin' :heart: these since forever :
 ---
-<img alt="Python" width="50px" src="https://banner2.cleanpng.com/20180712/cos/kisspng-learning-to-program-using-python-programming-langu-tic-tac-toe-logo-5b47098b6cd292.0915139615313821554458.jpg" />  <img alt="golang" width="50px" src="https://go.dev/images/go-logo-white.svg" />  <img alt="Rust" width="50px" src="https://www.rust-lang.org/logos/rust-logo-256x256.png"/>
-<img alt="JavaScript" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
-<img alt="TypeScript" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png?20210506173343" />
-<img alt="HTML CSS" width="50px" src="http://p92.com/binaries/content/gallery/p92website/technologies/htmlcssjs-overview.png" />
-<img alt="C" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
-<img alt="C++" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />  
+[![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)](https://www.rust-lang.org/)
+[![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
+[![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com/)
+[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en/)
 
-
-### SERVICES/MODULES I KNOW :zap: :
+### Frameworks that I work for :zap: :
 ---
-<img alt="Django" width="70px" src="https://static.djangoproject.com/img/logos/django-logo-negative.png" />  <img alt="Django Rest Framework" width="120px" src="https://www.django-rest-framework.org/img/logo.png" />
-<img alt="MongoDB" width="60px" src="https://images.cms.fivetran.com/mgtdf72hs0mx/6EqChQTpjHA93FltCUKXwf/066e4052c668145acb311e8d12508c3c/MongoDB.svg?fm=jpg&w=1200&q=80&fit=fill" />
-<img alt="Docker" width="130px" src="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Docker_logo.svg/182px-Docker_logo.svg.png" />
-<img alt="Heroku" width="120px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Heroku_logo.svg/330px-Heroku_logo.svg.png" />
-<img alt="React" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/182px-React-icon.svg.png" />
-<img alt="DigitalOcean" width="100px" src="https://www.digitalocean.com/_next/static/media/logo.87a8f3b8.svg" />
-<img alt="GoFiber" width="130px" src="https://gofiber.io/assets/images/logo.svg" />
-<br/>
-<img alt="FastAPI" width="90px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"/>
-<img alt="Flask" width="50px" src="https://www.kindpng.com/picc/m/188-1882416_flask-python-logo-hd-png-download.png"/>
-<img alt="PostgreSQL" width="50px" src="https://wiki.postgresql.org/images/thumb/a/a4/PostgreSQL_logo.3colors.svg/540px-PostgreSQL_logo.3colors.svg.png" />
-<img alt="MongoDB" width="40px" src="https://images.cms.fivetran.com/mgtdf72hs0mx/6EqChQTpjHA93FltCUKXwf/066e4052c668145acb311e8d12508c3c/MongoDB.svg?fm=jpg&w=1200&q=80&fit=fill" />
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)](https://www.djangoproject.com/)
+[![Django Rest Framework](https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=orange)](https://www.django-rest-framework.org/)
+[![Flask](https://img.shields.io/badge/Flask-000000?&style=for-the-badge&logo=Flask)](https://flask.palletsprojects.com/en/2.2.x/)
+[![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)](https://fastapi.tiangolo.com/)
+[![GoFiber](https://img.shields.io/badge/gofiber-000000?&style=for-the-badge&logo=GoLand)](https://gofiber.io/)
+[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Portainer](https://img.shields.io/badge/Portainer-000000?&style=for-the-badge&logo=portainer)](https://www.portainer.io/)
+[![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://www.portainer.io/)
+[![Traefik](https://img.shields.io/badge/Traefik-9D0FB0?&style=for-the-badge&logo=Traefik%20Mesh)](https://traefik.io/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Redis](https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?&style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
+[![MongoDB](https://img.shields.io/badge/mongodb-10000?&style=for-the-badge&logo=MongoDB)](https://www.mongodb.com/)
+[![Celery](https://img.shields.io/badge/Celery-37814A?&style=for-the-badge&logo=Celery)](https://github.com/celery/celery)
+[![Heroku](https://img.shields.io/badge/heroku-430098?&style=for-the-badge&logo=heroku)](https://www.heroku.com/)
+[![DigitalOcean](https://img.shields.io/badge/DigitalOcean-000000?&style=for-the-badge&logo=DigitalOcean)](https://www.digitalocean.com/)
+[![GCP](https://img.shields.io/badge/Google%20Cloud-000000?&style=for-the-badge&logo=Google%20Cloud)](https://cloud.google.com/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?&style=for-the-badge&logo=Amazon%20AWS)](https://aws.amazon.com/)
+[![Firebase](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://firebase.google.com/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Gitlab](https://img.shields.io/badge/GitLab-000000?&style=for-the-badge&logo=gitlab)](https://about.gitlab.com/)
+[![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?&style=for-the-badge&logo=Bitbucket)](https://bitbucket.org/product)
+[![Notion](https://img.shields.io/badge/notion-000000?&style=for-the-badge&logo=notion)](https://www.notion.so/)
+[![Tailwind](https://img.shields.io/badge/Tailwind-000000?&style=for-the-badge&logo=Tailwind%20CSS)](https://tailwindcss.com/)
 
-
-
-# GITHUB STATS 📃
----
-
-
-<div align="center">
-
-![Imon's GitHub stats](https://github-readme-stats.vercel.app/api?username=unownone&show_icons=true&theme=github-light)
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unownone&show_icons=true&theme=github-light)  
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=unownone&theme=github-light&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+# More things to know about me :
+![Imon's GitHub stats](https://github-readme-stats.vercel.app/api?username=unownone&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unownone&hide=css,jupyter%20notebook,batchfile&layout=compact&show_icons=true&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
