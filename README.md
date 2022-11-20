@@ -13,7 +13,6 @@
 ## Connect with me here:  
 [![Twitter URL](https://img.shields.io/twitter/follow/ru_de101?style=social)](https://twitter.com/ru_de101)
 [![Linkedin](https://img.shields.io/badge/imonroy-0A66C2?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/imon--roy/)
-[![]()]()
 ### *Few things about me*
 
 - 🎓 I'm currently pursuing **BTech in Computer Science**
@@ -62,5 +61,5 @@
 [![Tailwind](https://img.shields.io/badge/Tailwind-000000?&style=for-the-badge&logo=Tailwind%20CSS)](https://tailwindcss.com/)
 
 # More things to know about me :
-![Imon's GitHub stats](https://github-readme-stats.vercel.app/api?username=unownone&theme=dark&show_icons=true)
+![Imon's GitHub stats](https://github-readme-stats.vercel.app/api?username=unownone&theme=dark&show_icons=true&layout=compact)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unownone&hide=css,jupyter%20notebook,batchfile&layout=compact&show_icons=true&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
