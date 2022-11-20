@@ -60,6 +60,10 @@
 [![Notion](https://img.shields.io/badge/notion-000000?&style=for-the-badge&logo=notion)](https://www.notion.so/)
 [![Tailwind](https://img.shields.io/badge/Tailwind-000000?&style=for-the-badge&logo=Tailwind%20CSS)](https://tailwindcss.com/)
 
-# More things to know about me :
-![Imon's GitHub stats](https://github-readme-stats.vercel.app/api?username=unownone&theme=dark&show_icons=true&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unownone&hide=css,jupyter%20notebook,batchfile&layout=compact&show_icons=true&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+### Things about me 🔍 :
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+### My stats 🌠 :
+![Imon's GitHub stats](https://github-readme-stats.vercel.app/api?username=unownone&layout=compact&theme=dark&show_icons=true)
+![Streaks](https://streak-stats.demolab.com/?user=unownone&theme=gotham)
