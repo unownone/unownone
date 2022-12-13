@@ -62,14 +62,50 @@
 
 ### Things about me 🔍 :
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%208%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-507%20Thousand%20lines%20of%20code-blue)
 
+**I'm a Night 🦉** 
 
- Last Updated on 12/12/2022 18:45:39 UTC
+```text
+🌞 Morning    51 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.07% 
+🌆 Daytime    121 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.15% 
+🌃 Evening    210 commits    ████████░░░░░░░░░░░░░░░░░   33.23% 
+🌙 Night      250 commits    ██████████░░░░░░░░░░░░░░░   39.56%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       97 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.35% 
+Tuesday      118 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.67% 
+Wednesday    65 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.28% 
+Thursday     64 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.13% 
+Friday       74 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.71% 
+Saturday     95 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.03% 
+Sunday       119 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.83%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+🔥 Editors: 
+VS Code                  6 hrs 6 mins        █████████████████████████   100.0%
+
+💻 Operating System: 
+Windows                  6 hrs 6 mins        █████████████████████████   100.0%
+
+```
+
+
+ Last Updated on 13/12/2022 18:44:41 UTC
 <!--END_SECTION:waka-->
 
 ### My stats 🌠 :
