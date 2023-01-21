@@ -11,7 +11,7 @@
 
 
 ## Connect with me here:  
-[![Twitter URL](https://img.shields.io/twitter/follow/ru_de101?style=social)](https://twitter.com/ru_de101)
+[![Twitter URL](https://img.shields.io/twitter/follow/unown1ne?style=social)](https://twitter.com/unown1ne)
 [![Linkedin](https://img.shields.io/badge/imonroy-0A66C2?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/imon--roy/)
 ### *Few things about me*
 
