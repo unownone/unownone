@@ -17,8 +17,8 @@
 
 - 🎓 I'm currently pursuing **BTech in Computer Science**
 - 🌱 I'm currently trying to figure out what **Rust** is
-- 👯 I’m looking to collaborate on **API Based PROJECTS**
-- 🤔 I’m looking for help with **Application Backend development**
+- 👯 I’m looking to collaborate on **Backend Projects**
+- 🤔 I’m looking for help with **Frontend Development**
 - 😮 Pronouns **He/Him**
 
 ### Lovin' :heart: these since forever :
