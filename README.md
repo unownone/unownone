@@ -59,7 +59,7 @@
 
 ### Things about me 🔍 :
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-240%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-247%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -94,15 +94,15 @@ Sunday       131 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 🔥 Editors: 
-VS Code                  38 hrs 16 mins      █████████████████████████   100.0%
+VS Code                  41 hrs 59 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  38 hrs 16 mins      █████████████████████████   100.0%
+Windows                  41 hrs 59 mins      █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 04/02/2023 18:43:03 UTC
+ Last Updated on 05/02/2023 18:43:52 UTC
 <!--END_SECTION:waka-->
 
 ### My stats 🌠 :
