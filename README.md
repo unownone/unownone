@@ -106,5 +106,5 @@ Windows                  18 hrs 20 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ### My stats 🌠 :
-![Imon's GitHub stats](https://github-readme-stats.vercel.app/api?username=unownone&layout=compact&theme=dark&show_icons=true)
+![Imon's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=unownone&layout=compact&theme=dark&show_icons=true)
 ![Streaks](https://streak-stats.demolab.com/?user=unownone&theme=gotham)
