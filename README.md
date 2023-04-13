@@ -15,10 +15,10 @@
 [![Linkedin](https://img.shields.io/badge/imonroy-0A66C2?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/imon--roy/)
 ### *Few things about me*
 
-- 🎓 I'm currently pursuing **BTech in Computer Science**
-- 🌱 I'm currently trying to figure out what **Rust** is
-- 👯 I’m looking to collaborate on **Backend Projects**
-- 🤔 I’m looking for help with **Frontend Development**
+-  ♠️ I'm Jack of All Trades ,master of None.
+- 🧑🏾‍💻 I don't love tags but you can call me a FullStack Developer who just loves writing Backend.
+- 👯 I love to build products! Some of them are already pinned down under!
+- 🤔 I’m still trying to finish my education! I love intering/part-timing!
 - 😮 Pronouns **He/Him**
 
 ### Lovin' :heart: these since forever :
