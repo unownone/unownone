@@ -59,7 +59,7 @@
 
 ### Things about me 🔍 :
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-450%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-453%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
 
@@ -100,7 +100,7 @@ Mac                      6 hrs 27 mins       ████████░░░�
 ```
 
 
- Last Updated on 27/04/2023 18:40:00 UTC
+ Last Updated on 28/04/2023 18:39:56 UTC
 <!--END_SECTION:waka-->
 
 ### My stats 🌠 :
