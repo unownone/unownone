@@ -16,9 +16,8 @@
 ### *Few things about me*
 
 -  ♠️ I'm Jack of All Trades ,master of None.
-- 🧑🏾‍💻 I don't love tags but you can call me a FullStack Developer who just loves writing Backend.
+- 🧑🏾‍💻 I don't love tags but you can call me a FullStack Developer who just loves writing Backend Logic.
 - 👯 I love to build products! Some of them are already pinned down under!
-- 🤔 I’m still trying to finish my education! I love intering/part-timing!
 - 😮 Pronouns **He/Him**
 
 ### Lovin' :heart: these since forever :
@@ -27,35 +26,57 @@
 [![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 
 ### Frameworks that I work with :zap: :
 ---
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)](https://www.djangoproject.com/)
+[![Rocket.rs](https://img.shields.io/badge/rocket.rs-D33847?&style=for-the-badge&logo=rust)](https://rocket.rs/)
+[![axum.rs](https://img.shields.io/badge/axum-000000?&style=for-the-badge&logo=rust)](https://github.com/tokio-rs/axum/)
+[![axum.rs](https://img.shields.io/badge/Express.js-000000?&style=for-the-badge&logo=express)](https://github.com/tokio-rs/axum/)
+[![Chi](https://img.shields.io/badge/chi-000000?&style=for-the-badge&logo=GoLand)](https://go-chi.io/)
+[![GoFiber](https://img.shields.io/badge/gofiber-000000?&style=for-the-badge&logo=GoLand)](https://gofiber.io/)
+[![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Django Rest Framework](https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=orange)](https://www.django-rest-framework.org/)
 [![Flask](https://img.shields.io/badge/Flask-000000?&style=for-the-badge&logo=Flask)](https://flask.palletsprojects.com/en/2.2.x/)
-[![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)](https://fastapi.tiangolo.com/)
-[![GoFiber](https://img.shields.io/badge/gofiber-000000?&style=for-the-badge&logo=GoLand)](https://gofiber.io/)
-[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Portainer](https://img.shields.io/badge/Portainer-000000?&style=for-the-badge&logo=portainer)](https://www.portainer.io/)
-[![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://www.portainer.io/)
-[![Traefik](https://img.shields.io/badge/Traefik-9D0FB0?&style=for-the-badge&logo=Traefik%20Mesh)](https://traefik.io/)
+
+
+[![Nextjs](https://img.shields.io/badge/Next.js-000000?&style=for-the-badge&logo=next.js)](https://nextjs.org/)
+[![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?&style=for-the-badge&logo=svelte&logoColor=white)](https://svelte.dev/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)](https://www.djangoproject.com/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Tailwind](https://img.shields.io/badge/Tailwind-000000?&style=for-the-badge&logo=Tailwind%20CSS)](https://tailwindcss.com/)
+
+
+[![OpenAI](https://img.shields.io/badge/OpenAI-00000?style=for-the-badge&logo=docker&logoColor=white&logo=openai)](https://www.openai.com/)
+[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Traefik](https://img.shields.io/badge/Traefik-9D0FB0?&style=for-the-badge&logo=Traefik%20Mesh)](https://traefik.io/)
+[![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://www.portainer.io/)
+[![Portainer](https://img.shields.io/badge/Portainer-000000?&style=for-the-badge&logo=portainer)](https://www.portainer.io/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-00000?style=for-the-badge&logo=docker&logoColor=white&logo=kubernetes)](https://www.kubernetes.io/)
+
+
+[![SQS](https://img.shields.io/badge/SQS-FF4F00?&style=for-the-badge&logo=amazonsqs&logoColor=white)](https://aws.amazon.com/sqs/)
+[![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-F38020?&style=for-the-badge&logo=cloudflarepages&logoColor=white)](https://pages.cloudflare.com/)
+[![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?&style=for-the-badge&logoColor=white&logo=awsamplify)](https://aws.amazon.com/lambda/)
+
+
 [![Redis](https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?&style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/mongodb-10000?&style=for-the-badge&logo=MongoDB)](https://www.mongodb.com/)
-[![Celery](https://img.shields.io/badge/Celery-37814A?&style=for-the-badge&logo=Celery)](https://github.com/celery/celery)
-[![Heroku](https://img.shields.io/badge/heroku-430098?&style=for-the-badge&logo=heroku)](https://www.heroku.com/)
+
+
+[![Cloudflare](https://img.shields.io/badge/cloudflare-00000?&style=for-the-badge&logo=cloudflare)](https://www.cloudflare.com)
+[![AWS](https://img.shields.io/badge/AWS-FF9900?&style=for-the-badge&logoColor=white&logo=Amazon%20AWS)](https://aws.amazon.com/)
 [![DigitalOcean](https://img.shields.io/badge/DigitalOcean-000000?&style=for-the-badge&logo=DigitalOcean)](https://www.digitalocean.com/)
 [![GCP](https://img.shields.io/badge/Google%20Cloud-000000?&style=for-the-badge&logo=Google%20Cloud)](https://cloud.google.com/)
-[![AWS](https://img.shields.io/badge/AWS-232F3E?&style=for-the-badge&logo=Amazon%20AWS)](https://aws.amazon.com/)
+[![Heroku](https://img.shields.io/badge/heroku-430098?&style=for-the-badge&logo=heroku)](https://www.heroku.com/)
 [![Firebase](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://firebase.google.com/)
+
+
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Gitlab](https://img.shields.io/badge/GitLab-000000?&style=for-the-badge&logo=gitlab)](https://about.gitlab.com/)
-[![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?&style=for-the-badge&logo=Bitbucket)](https://bitbucket.org/product)
+
+
 [![Notion](https://img.shields.io/badge/notion-000000?&style=for-the-badge&logo=notion)](https://www.notion.so/)
-[![Tailwind](https://img.shields.io/badge/Tailwind-000000?&style=for-the-badge&logo=Tailwind%20CSS)](https://tailwindcss.com/)
 
 ### Things about me 🔍 :
 <!--START_SECTION:waka-->
