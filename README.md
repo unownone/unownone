@@ -82,12 +82,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 November 2022 - To: 05 November 2023
+From: 19 November 2022 - To: 06 November 2023
 
-Total Time: 1,114 hrs 10 mins
+Total Time: 1,116 hrs 18 mins
 
-TypeScript                 437 hrs 8 mins  ███████▒░░░░░░░░░░░░░░░░░   29.54 %
-Other                      365 hrs 43 mins ██████▒░░░░░░░░░░░░░░░░░░   24.71 %
+TypeScript                 437 hrs 17 mins ███████▒░░░░░░░░░░░░░░░░░   29.41 %
+Other                      370 hrs 25 mins ██████▒░░░░░░░░░░░░░░░░░░   24.92 %
 ```
 
 <!--END_SECTION:waka-->
